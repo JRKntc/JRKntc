@@ -1,7 +1,7 @@
-- <h1>👋  Hi, I’m @JRKntc </h1>
+- <h1 style="color= Blue;">👋  Hi, I’m @JRKntc </h1>
 - <p> 👀 I’m interested in HTML | CSS | JAVA SCRIPT | PYTHON  </p>
-- 🌱 I’m currently learning HTML | CSS | JAVA SCRIPT
-- 📫 How to reach me  junimwizard74@gmail.com
+- <p>🌱 I’m currently learning HTML | CSS | JAVA SCRIPT </p>
+- <p>📫 How to reach me  junimwizard74@gmail.com </p>
 
 
 

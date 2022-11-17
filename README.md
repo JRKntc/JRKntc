@@ -1,4 +1,4 @@
-- <h1 style="color:aqua;">👋  Hi, I’m @JRKntc </h1>
+- <h1 style="baclground-color:aqua;">👋  Hi, I’m @JRKntc </h1>
 - <p> 👀 I’m interested in HTML | CSS | JAVA SCRIPT | PYTHON  </p>
 - <p>🌱 I’m currently learning HTML | CSS | JAVA SCRIPT </p>
 - <p>📫 How to reach me  junimwizard74@gmail.com </p>

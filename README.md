@@ -1,4 +1,4 @@
-- 👋 <h1> Hi, I’m @JRKntc </h1>
+- <h1>👋  Hi, I’m @JRKntc </h1>
 - 👀 I’m interested in HTML | CSS | JAVA SCRIPT | PYTHON
 - 🌱 I’m currently learning HTML | CSS | JAVA SCRIPT
 - 📫 How to reach me  junimwizard74@gmail.com
